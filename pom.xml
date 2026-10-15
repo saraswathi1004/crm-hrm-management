@@ -11,6 +11,7 @@
 	<groupId>com.crm_project</groupId>
 	<artifactId>crm-hrm-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>crm-hrm-management</name>
 	<description>crm sample management  project</description>
 	<url/>
